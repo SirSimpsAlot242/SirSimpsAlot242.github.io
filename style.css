@@ -1,10 +1,14 @@
 body{
-	background-color: dimgrey;
+	background-color: darkslateblue;
 }
 
 a{
-	color: salmon;
+	color: indianred;
 	font-size: 30px
+}
+
+.homepage{
+	color: aqua;
 }
 
 h2, p, li, ul {
