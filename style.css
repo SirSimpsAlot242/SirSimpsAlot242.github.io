@@ -15,7 +15,9 @@ h2, p, li, ul {
 	color: lightgrey;
 }
 p{
-	font-size: 20px
+
+	font-family: 'Courier New', monospace;
+	font-size: 15px;
 }
 
 .OOga{
@@ -44,7 +46,7 @@ ol{
 
 .AboutMe{
 	border: 1px solid black;
-	height: 30vw;
+	height: 35vw;
 	
 }
 .Links{
