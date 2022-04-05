@@ -30,7 +30,7 @@ function grey() {
 }
 function never() {
 	document.getElementById("Hello").innerHTML = "Never";
-	document.getElementById("Hello").style.backgroundColor = "DrakGrey";
+	document.getElementById("Hello").style.backgroundColor = "White";
 }
 function gonna() {
 	document.getElementById("Hello").innerHTML = "Gonna";
@@ -38,11 +38,11 @@ function gonna() {
 }
 function give() {
 	document.getElementById("Hello").innerHTML = "Give";
-	document.getElementById("Hello").style.backgroundColor = "Steel";
+	document.getElementById("Hello").style.backgroundColor = "LightGreen";
 }
 function you() {
 	document.getElementById("Hello").innerHTML = "You";
-	document.getElementById("Hello").style.backgroundColor = "Light Blue";
+	document.getElementById("Hello").style.backgroundColor = "Blue";
 }
 function up() {
 	document.getElementById("Hello").innerHTML = "Up";
