@@ -18,8 +18,12 @@ p{
 
 	font-family: 'Courier New', monospace;
 	font-size: 15px;
+	
 }
-
+#Minus, #total, #Plus{
+	display: inline-block;
+	font-size: 15px;
+}
 .OOga{
 	font-size: 30px;
 }
