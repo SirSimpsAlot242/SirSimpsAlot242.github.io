@@ -1,9 +1,4 @@
 
-
-
-
-
-
 function strawberry() {
 	document.getElementById("Hello").innerHTML = "Strawberry";
 	document.getElementById("Hello").style.backgroundColor = "Red";
@@ -65,3 +60,4 @@ document.getElementById("8button").addEventListener("click", gonna);
 document.getElementById("9button").addEventListener("click", give);
 document.getElementById("10button").addEventListener("click", you);
 document.getElementById("11button").addEventListener("click", up);
+
