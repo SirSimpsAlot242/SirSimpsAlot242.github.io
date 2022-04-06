@@ -1,1 +1,1 @@
-// JavaScript Document
+document.getElementById("password").value
