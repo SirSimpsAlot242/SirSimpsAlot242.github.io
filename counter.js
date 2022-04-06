@@ -3,11 +3,21 @@ var  count = 0;
 function minus() {
 	count = count -1;
 	document.getElementById("TotalNum").innerHTML = count;
+	
+	if (count == 69){
+		document.getElementById("TotalNum").innerHTML = "NICE"
+	}
+	
 }
 
 function plus() {
 	count = count +1;
 	document.getElementById("TotalNum").innerHTML = count;
+	
+	if (count == 69){
+		document.getElementById("TotalNum").innerHTML = "NICE"
+	}
+	
 }
 
 function ten() {
@@ -18,6 +28,10 @@ function ten() {
 function five() {
 	count = count +5
 	document.getElementById("TotalNum").innerHTML = count;
+	
+	if (count >= 10){
+		document.getElementById("TotalNum").style.color = "RED";
+	}
 }
 
 function divid() {
@@ -37,6 +51,8 @@ function triple(){
 function reset(){
 	count = count *0;
 	document.getElementById("TotalNum").innerHTML = 0;
+	
+	
 }
 
 
