@@ -56,8 +56,12 @@ ol{
 .Links{
 	border: 1px solid black;
 	vertical-align: top;
-	height: 35vw
+	height: 50vw
 	
+}
+
+#TotalNum{
+	font-size: 30px;
 }
 
 
