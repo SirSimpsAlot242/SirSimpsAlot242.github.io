@@ -1,0 +1,79 @@
+p{
+	font-family: "SF Pro Text","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif
+}
+
+
+#TopBanner{
+	background-color: #303030;
+	text-align: center;
+}
+
+.Top{
+	display: inline-block;
+	vertical-align: middle;
+	padding-right: 30px;
+	color: #D6D6D6;
+}
+
+#ProductBanner{
+	background-color: #FBFBFB;
+	text-align: center;
+	height: 120px;
+	padding-bottom: 30px;
+}
+
+.new{
+	color: #bf4800;
+}
+
+
+.Pro{
+	height: 60px;
+	vertical-align: bottom;
+	padding-right: 4px;
+	padding-top: 15px;
+	color: #464648;
+	display: inline-block;
+}
+
+#Info{
+	vertical-align: middle;
+	background-color: #F5F5F7;
+}
+
+.InfoW{
+	text-align: center;
+	color: #1D1D1F;
+}
+
+.InfoL{
+	color: #1371CF;
+	text-align: center
+}
+
+#Bottom{
+	text-align: center;
+	padding-top: 50px
+}
+#OH{
+	font-size: 25px
+}
+
+.Ad{
+	display: inline-block;
+}
+#Buy{
+	color: whitesmoke;
+	background-color: #1371CF;
+	border-radius: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	font-size: 15px;
+}
+
+.BotPho{
+	text-align: center;
+	
+}

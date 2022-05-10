@@ -1,0 +1,91 @@
+#SideBar{
+	border: solid thin #6BD1F4;
+	display: inline-block;
+	width: 10vw;
+	background-color: whitesmoke;
+	vertical-align: top;
+	height: 1000vh;
+}
+#Table1{
+	border: solid thin black ;
+	background-color: whitesmoke;
+	width: 12vw;
+	height: 30vw;
+	vertical-align: bottom;
+	
+}
+#Everything{
+	padding-left: 30px; 
+	display: inline-block;
+	width: 57vw;
+}
+
+.TopHalf{
+	display: inline-block;
+	width: 60vw;
+}
+
+
+#OO{
+	padding-left: 50px;
+}
+#wikilogo{
+	padding-left: 17px
+}
+
+
+
+.SideWords{
+	padding-left: 9px;
+	font-size: 13px;
+}
+#RightTable{
+	display: inline-block;
+	width:15vw;
+	background-color: aquamarine;
+	text-align: center
+}
+
+.Lines{
+	width: 60vw;
+}
+.Lines1{
+	width: 80vw;
+}
+
+.Bodys{
+	display: inline-block;
+}
+
+
+
+
+.DemoTable{
+	border: solid thin black;
+	display: inline-block;
+	width: 11vw;
+	justify-content: center;
+	
+	padding-left: 13px;
+	padding-right: 25px;
+}
+
+.Col1{
+	display: inline-block;
+	width: 3vw;
+	
+	
+}
+.Col2{
+	padding-left: 5px;
+	display: inline-block;
+	width: 3vw;
+	text-align: end;
+}
+.Col3{
+	padding-left: 7px;
+	display: inline-block;
+	width: 3vw;
+	text-align: end;
+	
+}

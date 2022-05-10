@@ -7,12 +7,17 @@ a{
 	font-size: 30px
 }
 
+
+#Y{
+	display: inline-block;
+}
+
 .homepage{
 	color: aqua;
 }
 
-h2, p, li, ul {
-	color: lightgrey;
+h2, p, li, ul  {
+	color: lightgray;
 }
 p{
 
@@ -132,6 +137,16 @@ div.ToCAll{
 .HeaderPic{
 	border: 4px solid black;
 	font-size: 40px
+}
+
+#buttons{
+	display: inline-block;
+	vertical-align: top;
+}                                                                                                               
+.buttons{
+	display: block;
+	vertical-align: top;
+	width: 5vw
 }
 
 

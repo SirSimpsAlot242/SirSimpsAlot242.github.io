@@ -1,0 +1,97 @@
+#TopBanner{
+	background-color: #001489;
+	text-align: center;
+}
+
+.a1{
+	display: inline-block;
+	text-align: center;
+	background-color: #001489;
+	color: white;
+	vertical-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 1px;
+	font-size: 12px;
+	white-space: nowrap;
+}
+
+.a2{
+	padding-top: 50px;
+	padding-left: 170px;
+	color: #001489;
+	padding-right: 250px;
+	padding-bottom: 50px;
+}
+
+.BottomPart{
+	background-color: whitesmoke;
+}
+
+.Text{
+	background-color: green;
+	display: inline-block;
+	vertical-align: bottom;
+	padding-right: 140px;
+	padding-bottom: 15px;
+	margin-top: 100px;
+	margin-left: -120px;
+	margin-bottom: 0px;
+}
+
+.TextBR{
+	background-color: green;
+	margin-left: 24px;
+	padding-right: 1150px;
+	padding-top: 15px;
+	margin-top: 0px
+}
+
+
+
+
+
+
+.a3{
+	vertical-align: top;
+	display: inline-block;
+	text-align: center;
+	padding-left: 30px;
+	padding-right: 30px;
+	width: 80px;
+	height: 100px;
+	white-space: nowrap;
+
+	
+}
+
+#DH{
+	color: white;
+	background-color: #001489;
+	height: 35px;
+	width: 120px;
+	vertical-align: 120px;
+	
+	
+}
+
+#OS{
+	color: white;
+	background-color: #001489;
+	height: 35px;
+	width: 120px;
+	vertical-align: 120px;
+}
+
+#SE{
+	background-color: #FFD400;
+	color: black;
+	height: 35px;
+	width: 40px;
+	vertical-align: 120px;
+}
+
+
+
