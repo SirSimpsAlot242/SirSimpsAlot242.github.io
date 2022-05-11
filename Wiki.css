@@ -4,7 +4,7 @@
 	width: 10vw;
 	background-color: whitesmoke;
 	vertical-align: top;
-	height: 1000vh;
+	height: 100vh;
 }
 #Table1{
 	border: solid thin black ;
@@ -15,16 +15,19 @@
 	
 }
 #Everything{
-	padding-left: 30px; 
+	padding-left: 20px; 
 	display: inline-block;
-	width: 57vw;
+	width: 80vw;
 }
 
 .TopHalf{
 	display: inline-block;
-	width: 60vw;
+	width: 39vw;
 }
 
+.Photo{
+	width: 250px;
+}
 
 #OO{
 	padding-left: 50px;
@@ -41,20 +44,20 @@
 }
 #RightTable{
 	display: inline-block;
-	width:15vw;
-	background-color: aquamarine;
-	text-align: center
+	width:13vw;
+	background-color: whitesmoke;
+	text-align: center;
+	align-content: center;
+	vertical-align: top;
+	margin-top: 90px;
+	padding-right: 85px;
+	padding-left: 25px;
+	border: solid thin #000000;
 }
 
-.Lines{
-	width: 60vw;
-}
-.Lines1{
-	width: 80vw;
-}
-
-.Bodys{
+#Bodys{
 	display: inline-block;
+	width: 50vw;
 }
 
 
@@ -65,7 +68,6 @@
 	display: inline-block;
 	width: 11vw;
 	justify-content: center;
-	
 	padding-left: 13px;
 	padding-right: 25px;
 }
