@@ -1,0 +1,61 @@
+Body{
+	background-color: #65272C;
+	color: gold;	
+}
+#title{
+	text-align: center;
+	font-size: 25px;
+}
+
+#pic{
+	display: inline-block;
+	width: 30vw;
+	height: auto;
+}
+#SPQR{
+	display: inline-block;
+	width: 25vw;
+	margin-left: 6vw;
+	margin-right: 6vw;
+}
+#EmporerT{
+	display: inline-block;
+	width: 30vw;
+	height: 300px;
+}
+#Repub{
+	width: 45vw;
+	padding-top: 5px
+}
+#Links{
+	text-align: center;
+}
+.Links{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.InfoB{
+	display: inline-block;
+	vertical-align: top;
+}
+.InfoE{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 6vw;
+}
+.Basic{
+	display: inline-block;
+	width: 30vw;
+	height: 300px;
+	padding-top: 10px;
+	
+}
+.Emp{
+	width: 11vw;
+	height: auto;
+}
+.Info{
+	display: inline-block;
+	width: 99vw;
+	
+}
