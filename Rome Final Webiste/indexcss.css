@@ -28,10 +28,17 @@ Body{
 }
 #Repub{
 	width: 45vw;
-	padding-top: 5px
+	padding-top: 5px;
 }
 #Links{
 	text-align: center;
+}
+#pic1{
+	width: 45vw;
+	border: 2px solid #FFD700;
+}
+.buttons{
+	width: 25vw;
 }
 .Links{
 	margin-left: 5px;
