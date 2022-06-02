@@ -3,7 +3,8 @@ a{
 }
 Body{
 	background-color: #65272C;
-	color: gold;	
+	color: gold;
+	width: 100vw
 }
 #title{
 	text-align: center;
@@ -36,6 +37,9 @@ Body{
 #pic1{
 	width: 45vw;
 	border: 2px solid #FFD700;
+}
+#Home{
+	margin-top: 25px;
 }
 .buttons{
 	width: 25vw;
